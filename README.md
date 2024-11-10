@@ -9,5 +9,5 @@
   
  <h2>Imagem do Projeto</h2> 
 <img src="https://github.com/diegoteixeira-br/easy-shopping/blob/main/img/Easy%20Shopping%20Mockup.png?raw=true">
-<p>Confira o site aqui <a href="diegoteixeira-br.github.io/easy-shopping/" target="_blank">freeCodeCamp</a>.</p>
+<p>Confira o <a href="https://diegoteixeira-br.github.io/easy-shopping/" target="_blank">Site Aqui</a>.</p>
 
